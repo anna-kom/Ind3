@@ -1,0 +1,16 @@
+﻿  main.cpp
+D:\!!Универ\7 семестр\Компьютерная графика\Ind3\Ind3\main.cpp(71,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\!!Универ\7 семестр\Компьютерная графика\Ind3\Ind3\main.cpp(245,43): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+D:\!!Универ\7 семестр\Компьютерная графика\Ind3\Ind3\main.cpp(249,43): warning C4305: '=': truncation from 'double' to 'GLfloat'
+D:\!!Универ\7 семестр\Компьютерная графика\Ind3\Ind3\main.cpp(254,43): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+D:\!!Универ\7 семестр\Компьютерная графика\Ind3\Ind3\main.cpp(258,42): warning C4305: '=': truncation from 'double' to 'GLfloat'
+D:\!!Универ\7 семестр\Компьютерная графика\Ind3\Ind3\main.cpp(261,40): warning C4305: '+=': truncation from 'double' to 'float'
+D:\!!Универ\7 семестр\Компьютерная графика\Ind3\Ind3\main.cpp(263,40): warning C4305: '+=': truncation from 'double' to 'float'
+D:\!!Универ\7 семестр\Компьютерная графика\Ind3\Ind3\main.cpp(265,40): warning C4305: '-=': truncation from 'double' to 'float'
+D:\!!Универ\7 семестр\Компьютерная графика\Ind3\Ind3\main.cpp(267,40): warning C4305: '-=': truncation from 'double' to 'float'
+D:\!!Универ\7 семестр\Компьютерная графика\Ind3\Ind3\main.cpp(628,45): warning C4244: 'argument': conversion from 'GLfloat' to 'GLsizei', possible loss of data
+  Generating code
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 383 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Ind3.vcxproj -> D:\!!Универ\7 семестр\Компьютерная графика\Ind3\x64\Release\Ind3.exe
